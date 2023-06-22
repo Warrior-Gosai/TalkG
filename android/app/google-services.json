@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "488443205841",
+    "firebase_url": "https://talkg-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "talkg-app",
+    "storage_bucket": "talkg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488443205841:android:9f61c87f4b95636c3f8df0",
+        "android_client_info": {
+          "package_name": "com.example.talkg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488443205841-kfa6crqh3dlp8pmfpln7gfvkqlvnri0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkg",
+            "certificate_hash": "a369478e55e2ff4052c23bf47b480c7bfbd77957"
+          }
+        },
+        {
+          "client_id": "488443205841-rt5a4baskigkv23nb659vfpfjopmdtnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFzN3k6a6KWXDrbc7NQTS26lljmFrbzJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488443205841-btda9p3vmlsh3bkusjgnt6bff47i51id.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488443205841-oaoru8vbmu6crv5bq9ovcfmmho1hpdij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talkg.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
