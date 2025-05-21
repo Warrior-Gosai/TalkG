@@ -16,4 +16,6 @@ Backend: Firebase (Firestore, Firebase Auth...)
 ## Download TalkG
 Android APK: Download Now !!! 
 
+
+
 Share with your friends and enjoy ;)
