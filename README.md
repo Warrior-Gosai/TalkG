@@ -2,7 +2,7 @@
 TalkG is a real-time, cross-platform chat application built using Flutter. Designed with simplicity and speed in mind, TalkG enables users to communicate seamlessly across Android, iOS, and Web platforms.
 
 ## Features :
-• Real-Time Messaging
+• Real-Time Messaging <br/>
 • Cross-Platform Support (Android, iOS, Web)
 • User Authentication (Email, Google, etc.)
 • One-on-One & Group Chats, Chat with Ai
