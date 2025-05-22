@@ -20,4 +20,4 @@ Android APK: Download Now !!! <br/>
 Visit Website :<br/>
 🔗 - http://talkg.rf.gd
 <br/><br/>
-Share with your friends and enjoy ;)
+Share with your friends and enjoy :)
