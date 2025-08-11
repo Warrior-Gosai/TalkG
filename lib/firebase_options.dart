@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCAUcUnU1-EyGvQbTQvFWb3XHMBZnvNxhM',
+    apiKey: 'YOUR KEY',
     appId: '1:488443205841:web:7db10f23594664cc3f8df0',
     messagingSenderId: '488443205841',
     projectId: 'talkg-app',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDFzN3k6a6KWXDrbc7NQTS26lljmFrbzJY',
+    apiKey: 'YOUR KEY',
     appId: '1:488443205841:android:9f61c87f4b95636c3f8df0',
     messagingSenderId: '488443205841',
     projectId: 'talkg-app',
@@ -63,7 +63,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD6j31BYYWvfT9TWsUavRpbMqBnImUQySE',
+    apiKey: '',
     appId: '1:488443205841:ios:8546e84e04c2a4e53f8df0',
     messagingSenderId: '488443205841',
     projectId: 'talkg-app',
@@ -75,7 +75,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD6j31BYYWvfT9TWsUavRpbMqBnImUQySE',
+    apiKey: '',
     appId: '1:488443205841:ios:272d9a2c614b90ee3f8df0',
     messagingSenderId: '488443205841',
     projectId: 'talkg-app',
