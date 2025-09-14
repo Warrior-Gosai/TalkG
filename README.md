@@ -54,8 +54,9 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Warrior Gosai**  
-- GitHub: [@Warrior-Gosai](https://github.com/Warrior-Gosai)  
+**Warrior Gosai** & **SUPREME**
+- GitHub: [@Warrior-Gosai](https://github.com/Warrior-Gosai)
+- GitHub: [@SHC-SUPREME](https://github.com/SHC-SUPREME)
 - Website: [http://talkg.rf.gd](http://talkg.rf.gd)  
 
 ---
