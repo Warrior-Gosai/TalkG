@@ -9,7 +9,7 @@ Designed with simplicity and speed in mind, TalkG enables users to communicate s
 
 - ⚡ Real-Time Messaging  
 - 📱 Cross-Platform Support (**Android, iOS, Web**)  
-- 🔐 User Authentication (**Email, Google, etc.**)  
+- 🔐 User Authentication (**Using Firebase Auth**)  
 - 👥 One-on-One & Group Chats, **Chat with AI**  
 - 🟢 Activity Status  
 - 🌙 Dark & Light Themes  
